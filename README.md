@@ -1,0 +1,1 @@
+My Azure project was created using the West Europe region because it is closer to Nigeria and provides better connection speed. I created a Storage Account named nkechi23. The Shared Responsibility Model means that Microsoft Azure protects the physical cloud infrastructure, while I am responsible for securing my account, password, and the resources I create.
